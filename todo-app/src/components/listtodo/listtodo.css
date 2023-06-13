@@ -1,0 +1,28 @@
+.todo-list{
+    margin: 40px auto;
+    width: 940px;
+    background: #209cee;
+    padding: 25px;
+}
+.todo-list  .row li{
+    list-style: none;
+}
+.todo-list  .row
+{
+    border: 1px solid #ccc;
+    padding: 10px;
+    background: #fff;
+    border-radius: 5px;
+    width: 60%;
+    margin: 10px auto;
+}
+.input-group-prepend .complete-task-radio{
+    margin-top: 10px;
+}
+.completed-button{
+    font-size:  12px;
+    font-weight: 14px;
+}
+.completed-task-lists{
+    text-decoration: line-through;
+}

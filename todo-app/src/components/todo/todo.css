@@ -1,0 +1,12 @@
+.input-wrapper{
+    margin: 40px auto;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+}
+.todoList-wrapper{
+    margin-top: 40px;
+}
+.add-btn-wrapper{
+    margin-left: 10px;
+}
